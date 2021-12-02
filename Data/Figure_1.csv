@@ -1,0 +1,114 @@
+# Instuctions,# List each paper once for each ecosystem type they investigated,"# Also if any papers did both microbial and rates, list them twice",# Enter either rates or microbial,"# If you find others, add them—just make sure to keep them lowercase with underscores and consistent wording each time","# Notes are optional, but if you come across something odd or an uncertainty you can add it here"
+Author (First et al. OR First and Second),Year,Title,Study_type,Ecosystem_type,Notes
+Pang et al.,2021,Long-term sulfide input enhances chemoautotrophic denitrification rather than DNRA in freshwater lake sediments,rates,lakes,
+Pang et al.,2021,Long-term sulfide input enhances chemoautotrophic denitrification rather than DNRA in freshwater lake sediments,microbial,lakes,
+Wang et al.,2020,Hotspot of dissimilatory nitrate reduction to ammonium (DNRA) process in freshwater sediments of riparian zones,rates,lake_riparian,
+Wang et al.,2020,Hotspot of dissimilatory nitrate reduction to ammonium (DNRA) process in freshwater sediments of riparian zones,microbial,lake_riparian,
+Pang and Ji,2019,Biotic factors drive distinct DNRA potential rates and contributions in typical Chinese shallow lake sediments,rates,lakes,
+Pang and Ji,2019,Biotic factors drive distinct DNRA potential rates and contributions in typical Chinese shallow lake sediments,microbial,lakes,
+Nogaro and Burgin,2014,Influence of bioturbation on denitrification and dissimilatory nitrate reduction to ammonium (DNRA) in freshwater sediments,rates,lakes,
+Nogaro and Burgin,2014,Influence of bioturbation on denitrification and dissimilatory nitrate reduction to ammonium (DNRA) in freshwater sediments,microbial,lakes,"not sure, if should be added for microbial rates too, no DNA extraction n qPCR"
+Li et al.,2020,Comparison of Community and Function of Dissimilatory Nitrate Reduction to Ammonium (DNRA) Bacteria in Chinese Shallow Lakes with Different Eutrophication Degrees,microbial,lakes,
+Li et al.,2020,Comparison of Community and Function of Dissimilatory Nitrate Reduction to Ammonium (DNRA) Bacteria in Chinese Shallow Lakes with Different Eutrophication Degrees,rates,lakes,"Did not measure DNRA directly, mesured TN, NO3-, NH4+"
+Zhu et al.,2018,Biogeochemical sulfur cycling coupling with dissimilatory nitrate reduction processes in freshwater sediments,rates,review_all_freshwater,
+Zhu et al.,2018,Biogeochemical sulfur cycling coupling with dissimilatory nitrate reduction processes in freshwater sediments,microbial,review_all_freshwater,
+Palacin-Lizarbe et al.,2019,The DNRA-Denitrification Dichotomy Differentiates Nitrogen Transformation Pathways in Mountain Lake Benthic Habitats,rates,lakes,"Did not measure DNRA directly, mesured NO3-, NO2-, NH4+ (DIN)"
+Palacin-Lizarbe et al.,2019,The DNRA-Denitrification Dichotomy Differentiates Nitrogen Transformation Pathways in Mountain Lake Benthic Habitats,microbial,lakes,
+Washbourne et al.,2011,Dissimilatory nitrate reduction pathways in an oligotrophic freshwater ecosystem: spatial and temporal trends,rates,lakes,
+Washbourne et al.,2011,Dissimilatory nitrate reduction pathways in an oligotrophic freshwater ecosystem: spatial and temporal trends,rates,streams,
+Robertson and Thamdrup,2017,The fate of nitrogen is linked to iron(II) availability in a freshwater lake sediment,rates,lakes,
+Jiang et al.,2020,"Denitrification and dissimilatory nitrate reduction to ammonium in freshwater lakes of the Eastern Plain, China: Influences of organic carbon and algal bloom",rates,lakes,
+Scott et al. ,2008,"Denitrification, dissimilatory nitrate reduction to ammonium, and nitrogen fixation along a nitrate concentration gradient in a created freshwater wetland",rates,constructed_wetlands,
+Giannopoulos et al.,2020,Trace Metal Availability Affects Greenhouse Gas Emissions and Microbial Functional Group Abundance in Freshwater Wetland Sediments,microbial,wetlands,
+Morrissey,2013,Resource Availability Effects on Nitrate-Reducing Microbial Communities in a Freshwater Wetland,microbial,wetlands,
+Tang et al. ,2021,Mechanisms and risks of joint control of nitrogen and phosphorus through sediment capping technology in a pilot-scale study,rates,pilotscale_experiment _in_pond,Not sure if it falls under our freshwater ecosystem criteria
+Li et al.,2022,Denitrification and dissimilatory nitrate reduction to ammonia in long-term lake sediment microcosms with iron(II),rates,lakes,
+Li et al.,2022,Denitrification and dissimilatory nitrate reduction to ammonia in long-term lake sediment microcosms with iron(II),microbial,lakes,
+Payne et al.,2009,Sediment nitrate manipulation using porewater equilibrators reveals potential for N and S coupling in freshwaters,rates,wetlands,
+Marzocchi et al. ,2021,Dissimilatory nitrate reduction by a freshwater cable bacterium,rates,lakes,
+Marzocchi et al. ,2021,Dissimilatory nitrate reduction by a freshwater cable bacterium,microbial,lakes,
+Henson et al.,2017,Nitrate reduction mechanisms and rates in an unconfined eogenetic karst aquifer in two sites with different redox potential,rates,freshwater_karst_aquifer,Not sure if it falls under our criteria
+Henson et al.,2017,Nitrate reduction mechanisms and rates in an unconfined eogenetic karst aquifer in two sites with different redox potential,microbial,freshwater_karst_aquifer,Not sure if it falls under our criteria
+Burgin and Hamilton,2008,NO(3)(-)-driven SO(4)(2-) production in freshwater ecosystems: Implications for N and S cycling,rates,streams,
+Burgin and Hamilton,2008,NO(3)(-)-driven SO(4)(2-) production in freshwater ecosystems: Implications for N and S cycling,rates,wetlands,
+Burgin and Hamilton,2008,NO(3)(-)-driven SO(4)(2-) production in freshwater ecosystems: Implications for N and S cycling,rates,lakes,
+Burgin and Hamilton,2008,NO(3)(-)-driven SO(4)(2-) production in freshwater ecosystems: Implications for N and S cycling,microbial,streams,
+Burgin and Hamilton,2008,NO(3)(-)-driven SO(4)(2-) production in freshwater ecosystems: Implications for N and S cycling,microbial,wetlands,
+Burgin and Hamilton,2008,NO(3)(-)-driven SO(4)(2-) production in freshwater ecosystems: Implications for N and S cycling,microbial,lakes,
+Stief et al.,2018,Freshwater copepod carcasses as pelagic microsites of dissimilatory nitrate reduction to ammonium,rates,lakes,
+Stief et al.,2018,Freshwater copepod carcasses as pelagic microsites of dissimilatory nitrate reduction to ammonium,microbial,lakes,
+Kelso et al.,1999,Effects of carbon substrates on nitrite accumulation in freshwater sediments,rates,rivers,
+Jones et al.,2017,Sulfide-Induced Dissimilatory Nitrate Reduction to Ammonium Supports Anaerobic Ammonium Oxidation (Anammox) in an Open-Water Unit Process Wetland,rates,open_water_unit_process_wetland,"Discover Bay, CA; Not sure if freshwater"
+Jones et al.,2017,Sulfide-Induced Dissimilatory Nitrate Reduction to Ammonium Supports Anaerobic Ammonium Oxidation (Anammox) in an Open-Water Unit Process Wetland,microbial,open_water_unit_process_wetland,"Discover Bay, CA; Not sure if freshwater"
+Hoagland et al.,2019,"Controls on nitrogen transformation rates on restored floodplains along the Cosumnes River, California",rates,river_floodplains,
+Brunet and GarciaGil,1996,Sulfide-induced dissimilatory nitrate reduction to ammonia in anaerobic freshwater sediments,rates,freshwater_sediments,Not sure which freshwater source
+Nijburg and Laanbrork,1997,The influence of Glyceria maxima and nitrate input on the composition and nitrate metabolism of the dissimilatory nitrate-reducing bacterial community,rates,river_meander,
+Nijburg and Laanbrork,1997,The influence of Glyceria maxima and nitrate input on the composition and nitrate metabolism of the dissimilatory nitrate-reducing bacterial community,microbial,river_meander,
+Arce et al. ,2015,Nitrogen processing following experimental sediment rewetting in isolated pools in an agricultural stream of a semiarid region,rates,agricultural_stream,"Didn't measure DNRA directly, Observed increased concentration of NH4+ and suggested that may be DNRA"
+Wang et al. ,2019,"Differentiation of nitrogen and microbial community in the littoral and limnetic sediments of a large shallow eutrophic lake (Chaohu Lake, China)",rates,lake_riparian,"Measured NH4+-N, Not DNRA directly"
+Wang et al. ,2019,"Differentiation of nitrogen and microbial community in the littoral and limnetic sediments of a large shallow eutrophic lake (Chaohu Lake, China)",rates,lakes,"Measured NH4+-N, Not DNRA directly"
+Wang et al. ,2019,"Differentiation of nitrogen and microbial community in the littoral and limnetic sediments of a large shallow eutrophic lake (Chaohu Lake, China)",microbial,lake_riparian,
+Wang et al. ,2019,"Differentiation of nitrogen and microbial community in the littoral and limnetic sediments of a large shallow eutrophic lake (Chaohu Lake, China)",microbial,lakes,
+Reverey et al.,2018,Dry-wet cycles of kettle hole sediments leave a microbial and biogeochemical legacy,rates,wetlands,"Kettle hole wetlands; Measured NH4+-N, Not DNRA directly"
+Reverey et al.,2018,Dry-wet cycles of kettle hole sediments leave a microbial and biogeochemical legacy,microbial,wetlands,Kettle hole wetlands
+Stief et al.,2010,Combined Gel Probe and Isotope Labeling Technique for Measuring Dissimilatory Nitrate Reduction to Ammonium in Sediments at Millimeter-Level Resolution,rates,river_bank,
+Slone et al.,2018,River sediment nitrogen removal and recycling within an agricultural Midwestern USA watershed,rates,rivers,
+Zecchin et al.,2018,"Rice Paddy Nitrospirae Carry and Express Genes Related to Sulfate Respiration: Proposal of the New Genus ""Candidatus Sulfobium""",microbial,rice_paddies,Didn't mention freshwater or marine distinctly
+Burgin et al.,2012,Denitrification by sulfur-oxidizing bacteria in a eutrophic lake,rates,lakes,
+Burgin et al.,2012,Denitrification by sulfur-oxidizing bacteria in a eutrophic lake,microbial,lakes,
+Chen et al. ,2012,Nitrogen removal by denitrification during cyanobacterial bloom in Lake Taihu,rates,lakes,
+Pelegri and Blackburn,1996,"Nitrogen cycling in lake sediments bioturbated by Chironomus plumosus larvae, under different degrees of oxygenation",rates,lakes,
+Ribot et al.,2017,Understanding pathways of dissimilatory and assimilatory dissolved inorganic nitrogen uptake in streams,rates,rivers,
+Pajares et al.,2017,Vertical and seasonal distribution of picoplankton and functional nitrogen genes in a high-altitude warm-monomictic tropical lake,rates,lakes,"Measured NH4+-N, Not DNRA directly"
+Pajares et al.,2017,Vertical and seasonal distribution of picoplankton and functional nitrogen genes in a high-altitude warm-monomictic tropical lake,microbial,lakes,
+Nizzoli et al. ,2010,Effect of organic enrichment and thermal regime on denitrification and dissimilatory nitrate reduction to ammonium (DNRA) in hypolimnetic sediments of two lowland lakes,rates,lakes,
+Boedecker et al. ,2020,Evaluating sediments as an ecosystem service in western Lake Erie via quantification of nutrient cycling pathways and selected gene abundances,rates,lakes,Measured NIAF as proxy of DNRA
+Burgin et al.,2013,"Nitrate Reduction, Denitrification, and Dissimilatory Nitrate Reduction to Ammonium in Wetland Sediments",rates,wetlands,
+Matheson and Sukias,2010,Nitrate removal processes in a constructed wetland treating drainage from dairy pasture,rates,constructed_wetlands,
+Zhang et al.,2017,"Responses of Dissimilatory Nitrate Reduction to Ammonium and Denitrification to Plant Presence, Plant Species and Species Richness in Simulated Vertical Flow Constructed Wetlands",rates,constructed_wetlands,
+Zhang et al.,2017,"Responses of Dissimilatory Nitrate Reduction to Ammonium and Denitrification to Plant Presence, Plant Species and Species Richness in Simulated Vertical Flow Constructed Wetlands",microbial,constructed_wetlands,
+Wang et al.,2018,Microbial Nitrogen Cycle Hotspots in the Plant-Bed/Ditch System of a Constructed Wetland with N2O Mitigation,rates,constructed_wetlands,
+Wang et al.,2018,Microbial Nitrogen Cycle Hotspots in the Plant-Bed/Ditch System of a Constructed Wetland with N2O Mitigation,microbial,constructed_wetlands,
+Rahman et al,2019,Factors controlling dissimilatory nitrate reduction processes in constructed stormwater urban wetlands,rates,constructed_wetlands,
+Rahman et al,2019,"Role of organic carbon, nitrate and ferrous iron on the partitioning between denitrification and DNRA in constructed stormwater urban wetlands",rates,constructed_wetlands,
+Yang et al.,2019,External carbon addition increases nitrate removal and decreases nitrous oxide emission in a restored wetland,rates,wetlands,"Measured NH4+-N, Not DNRA directly"
+Rahman et al,2019,Effect of temperature and drying-rewetting of sediments on the partitioning between denitrification and DNRA in constructed urban stormwater wetlands,rates,constructed_wetlands,
+Hernandez-del Amo et al.,2020,Changes in the Potential Activity of Nitrite Reducers and the Microbial Community Structure After Sediment Dredging and Plant Removal in the Empuriabrava FWS-CW,rates,constructed_wetlands,
+Hernandez-del Amo et al.,2020,Changes in the Potential Activity of Nitrite Reducers and the Microbial Community Structure After Sediment Dredging and Plant Removal in the Empuriabrava FWS-CW,microbial,constructed_wetlands,
+Pan et al.,2020,Biogeographical distribution of dissimilatory nitrate reduction to ammonium (DNRA) bacteria in wetland ecosystems around the world,microbial,wetlands,
+Li et al.,2020,"The distribution of dissimilatory nitrate reduction to ammonium bacteria in multistage constructed wetland of Jining, Shandong, China",rates,constructed_wetlands,
+Li et al.,2020,"The distribution of dissimilatory nitrate reduction to ammonium bacteria in multistage constructed wetland of Jining, Shandong, China",microbial,constructed_wetlands,
+Jahangir et al. ,2017,In situ denitrification and DNRA rates in groundwater beneath an integrated constructed wetland,rates,groundwater_beneath _constructed_wetland,Not sure if falls under Freshwater ecosystem
+Hernandez-del Amo and Baneras,2020,Effects of high nitrate input in the denitrification-DNRA activities in the sediment of a constructed wetland under varying C/N ratios,rates,constructed_wetlands,
+Hernandez-del Amo and Baneras,2020,Effects of high nitrate input in the denitrification-DNRA activities in the sediment of a constructed wetland under varying C/N ratios,microbial,constructed_wetlands,
+Xia et al.,2018,"The cycle of nitrogen in river systems: sources, transformation, and flux",rates,rivers,"Review, No rates"
+Kim et al.,2016,"Distributions, abundances and activities of microbes associated with the nitrogen cycle in riparian and stream sediments of a river tributary",rates,river_riparian,
+Kim et al.,2016,"Distributions, abundances and activities of microbes associated with the nitrogen cycle in riparian and stream sediments of a river tributary",microbial,river_riparian,
+Kim et al.,2016,"Distributions, abundances and activities of microbes associated with the nitrogen cycle in riparian and stream sediments of a river tributary",rates,streams,
+Kim et al.,2016,"Distributions, abundances and activities of microbes associated with the nitrogen cycle in riparian and stream sediments of a river tributary",microbial,streams,
+Cheng et al.,2016,Dissimilatory nitrate reduction processes in sediments of urban river networks: Spatiotemporal variations and environmental implications,rates,rivers,
+Sgouridis et al.,2011,Denitrification and dissimilatory nitrate reduction to ammonium (DNRA) in a temperate re-connected floodplain,rates,river_floodplains,
+Quick et al.,2019,Nitrous oxide from streams and rivers: A review of primary biogeochemical pathways and environmental variables,rates,rivers,"Review, no DNRA rates but lots of info on DNRA"
+Quick et al.,2019,Nitrous oxide from streams and rivers: A review of primary biogeochemical pathways and environmental variables,rates,streams,"Review, no DNRA rates but lots of info on DNRA"
+Li et al.,2019,Dissimilatory Nitrate/Nitrite Reduction Processes in River Sediments Across Climatic Gradient: Influences of Biogeochemical Controls and Climatic Temperature Regime,rates,rivers,
+Welti et al.,2012,Mimicking floodplain reconnection and disconnection using 15N mesocosm incubations,rates,river_floodplains,
+Tomazek and Rokosz,2007,"RATES OF DISSIMILATORY NITRATE REDUCTION TO AMMONIUM IN TWO POLISH RESERVOIRS: IMPACTS OF TEMPERATURE, ORGANIC MATTER CONTENT, AND NITRATE CONCENTRATION",rates,reservoirs,
+Souza et al.,2012,"SEDIMENT DENITRIFICATION, DNRA AND ANAMMOX RATES IN TROPICAL FLOODPLAIN LAKE (PANTANAL, BRAZIL)",rates,floodplain_lake,
+Palacin-Lizarbe et al ,2019,The DNRA-Denitrification dichotomy differentiates Nitrogen transformation pathways in mountain lake benthic habitates,rates,lakes,
+Palacin-Lizarbe et al ,2019,The DNRA-Denitrification dichotomy differentiates Nitrogen transformation pathways in mountain lake benthic habitates,microbial,lakes,
+Jiang et al.,2020,Role of algal accumulations on the partitioning between N2 production and dissimilatory nitrate reduction to ammonium in eutrophic lakes,rates,lakes,
+Jiang et al.,2020,Role of algal accumulations on the partitioning between N2 production and dissimilatory nitrate reduction to ammonium in eutrophic lakes,microbial,lakes,
+Gruca-Rokosz et al,2009,Competitiveness of dissimilatory nitrate reduction processes in bottom sediment of rzeszów reservoir,rates,reservoirs,
+Cojean et al.,2019,Direct O2 control on the partitioning between denitrification and dissimilatory nitrate reduction to ammonium in lake sediments,rates,lakes,
+Mørkved et al.,2005,Removal of nitrogen in different wetland filter materials: use of stable nitrogen isotopes to determine factors controlling denitrification and DNRA,rates,constructed_wetlands,"lab experiment using CW filter material, not sure if falls under our catagory"
+Wang et al.,2021,Fixed nitrogen removal mechanisms associated with sulfur cycling in tropical wetlands,rates,wetlands,"Measured NH4+-N, Not DNRA directly"
+Wang et al.,2021,Fixed nitrogen removal mechanisms associated with sulfur cycling in tropical wetlands,microbial,wetlands,
+Ribas et al.,2017,Subsurface nitrate reduction under wetlands takes place in narrow superficial zones,rates,wetlands,Nitrate reduction with depth under wetlands
+Ribas et al.,2013,Effect of different seasonal conditions on the potential of wetland soils for groundwater denitrification,rates,wetlands,GW
+Zhao et al.,2020,"Survey of dissimilatory nitrate reduction to ammonium microbial community at national wetland of Shanghai, China",rates,wetlands,
+Zhao et al.,2020,"Survey of dissimilatory nitrate reduction to ammonium microbial community at national wetland of Shanghai, China",microbial,wetlands,
+Gadegaonkar et al.,2020,Effect of Cathode Material and Its Size on the Abundance of Nitrogen Removal Functional Genes in Microcosms of Integrated Bioelectrochemical-Wetland Systems,microbial,constructed_wetlands,
+Liu et al. ,2020,High degree of contaminant removal and evolution of microbial community in di fferent electrolysis-integrated constructed wetland systems,rates,constructed_wetlands,"Measured NH4+-N, Not DNRA directly"
+Liu et al. ,2020,High degree of contaminant removal and evolution of microbial community in di fferent electrolysis-integrated constructed wetland systems,microbial,constructed_wetlands,
+Liu et al. ,2018,Effects of influent nitrogen loads on nitrogen and COD removal in horizontal subsurface flow constructed wetlands during different growth periods of Phragmites australis,rates,constructed_wetlands,"Measured NH4+-N, Not DNRA directly; subsurface flow"
+Jahangir et al. ,2020,Application of N-15 tracing for estimating nitrogen cycle processes in soils of a constructed wetland,rates,constructed_wetlands,

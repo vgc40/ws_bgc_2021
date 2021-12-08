@@ -20,6 +20,6 @@ ggplot(data, aes(x = Year, fill = Study_type)) +
  geom_vline(aes(xintercept = 2007), colour="black") +
  labs(x = paste0("Year"), y = "Number of papers")+ theme_bw() + theme(text = element_text(size=12, color="black"),axis.text = element_text(color = "black"), axis.ticks = element_line(color = "black"),panel.background = element_blank(), panel.grid = element_blank()) + scale_fill_manual(values = c("blue","red"))
 
-ggsave(paste0(output.dir,"Figure_1_",Sys.Date(),".pdf"))
+ggsave(paste0(output.dir,"Figure_1_",Sys.Date(),".png"))
 
 

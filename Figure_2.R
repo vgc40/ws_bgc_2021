@@ -1,6 +1,12 @@
 rm(list=ls());graphics.off();
 
-#load libraries 
+# # #load libraries 
+# install.packages("sf")
+# install.packages("spData")
+# install.packages("ggplot2")
+# install.packages("ggspatial")
+# install.packages('ggmap')
+
 library(sf)
 library(spData)
 library(ggplot2)
@@ -9,11 +15,7 @@ library(ggmap)
 library(ggsn)
 library(cowplot)
 
-# install.packages("sf")
-# install.packages("spData")
-# install.packages("ggplot2")
-# install.packages("ggspatial")
-# install.packages('ggmap')
+
 
 # Setting directories
 home.dir = "C:/Users/gara009/OneDrive - PNNL/Documents/GitHub/ws_bgc_2021/" 
@@ -32,8 +34,8 @@ bbox <- c(left = -160, bottom = 15, right = 135, top = 70)
 
 #plot the world map (with whondrs lat/long)
 world_map = ggmap(get_stamenmap(bbox,maptype = "terrain-background", zoom = 5))+
-  geom_point(data = df, aes(x = Longitude_decimal_degrees, y = Latitude_decimal_degrees), 
-             size = 1.5, color = "orange")+
+  geom_point(data = df, aes(x = Longitude_decimal_degrees, y = Latitude_decimal_degrees, color = Field_or_Lab), 
+             size = 1.5)+
   geom_point(data = df, aes(x = Longitude_decimal_degrees, y = Latitude_decimal_degrees), 
              pch= 21, size = 2, color = "black")+
   theme(axis.text = element_text(size = 10, colour = 1),
